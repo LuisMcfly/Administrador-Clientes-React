@@ -1,9 +1,6 @@
 # Administrador de clientes desarrollado con react
 
-Para este proyecto se usara: React Router Dom, Tailwind y JSON-Server
-
-Ver app en funcionamiento:
-#Proximamente
+Ver app en funcionamiento: [Netlify](https://crm-react-router-dom-v6-4.netlify.app/)
 
 ## Instrucciones
 
